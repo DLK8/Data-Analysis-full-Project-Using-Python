@@ -32,3 +32,27 @@ This project focuses on transforming raw sales data into actionable insights. Th
 ### outcome
 The final output was a detailed, easy-to-read summary report of the analysis, offering a solid foundation for decision-making and business optimization.
 This case study reflects my ability to automate data workflows and extract meaningful insights using Python.
+
+### Project Image
+
+![data cleaning](Project%20Image%20/py_code.png)
+
+![data cleaning](Project%20Image%20/py_code2.png)
+
+![data cleaning](Project%20Image%20/py_data.png)
+
+![data cleaning](Project%20Image%20/py_data2.png)
+
+![data cleaning](Project%20Image%20/report1.png)
+
+![data cleaning](Project%20Image%20/report2.png)
+
+![data cleaning](Project%20Image%20/report4.png)
+
+![data cleaning](Project%20Image%20/report5.png)
+
+![data cleaning](Project%20Image%20/report6.png)
+
+![data cleaning](Project%20Image%20/report7.png)
+
+![data cleaning](Project%20Image%20/report8.png)
